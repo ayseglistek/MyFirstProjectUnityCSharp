@@ -27,6 +27,5 @@ public class degiskenler : MonoBehaviour
         Debug.Log(kusurat2);
         Debug.Log(acikMi);
     }
-    }
-
+}
     
